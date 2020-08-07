@@ -1,0 +1,11 @@
+{
+  "name": "css-models",
+  "version": "1.0.0",
+  "description": "Repo with different models and aspects of CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sree Sai Raghava",
+  "license": "MIT"
+}
