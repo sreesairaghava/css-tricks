@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+.header {
+  color: black;
+  font-size: 36px;
+}
+
+.header__title-1 {
+  color: #e62f2f;
+  font-weight: 600;
+}
+.header__title-2 {
+  color: #0053a7;
+  font-weight: 600;
+}
+.flexContainer {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  justify-content: space-evenly;
+}
+.formContainer {
+  flex-grow: 1;
+  width: 10vw;
+  height: 50vh;
+  color: whitesmoke;
+  flex-shrink: 1;
+  font-weight: 600;
+  background-color: #686de0;
+  text-align: center;
+  align-items: baseline;
+}
